@@ -16,4 +16,5 @@ Updates I send out to my team on cool data stuff
   * **An interesting look at S3 Tables via a blog on building an open source alternative**: [Yingjun Wu](https://medium.com/@yingjunwu) (a founder of RisingWave and prolific writer of very useful useful tech blog posts), published [We Built an Open Source S3 Tables Alternative](https://medium.com/@yingjunwu/we-built-an-open-source-s3-tables-alternative-2b3c95ef4b3a).  Along with the specific walkthrough of what they built, the article doubles as a good survey of what's involved in a data lake like this.
   * **Ridiculous use of SQL:** [SQL Shader](https://dmkskd.github.io/sql-shader/), a SQL-driven [pixel shader](https://www.mayerowitz.io/blog/a-journey-into-shaders) running entirely in the browser via [DuckDB on WASM](https://duckdb.org/docs/stable/clients/wasm/overview) (with an option for Clickhouse... interesting).
 * 2025-10-25
-  * https://blog.sturdystatistics.com/posts/sparse_duckdb/  
+  * https://blog.sturdystatistics.com/posts/sparse_duckdb/
+  * https://www.youtube.com/watch?v=rqLbn1PQPKA
