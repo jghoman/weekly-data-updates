@@ -18,3 +18,4 @@ Updates I send out to my team on cool data stuff
 * 2025-10-25
   * https://blog.sturdystatistics.com/posts/sparse_duckdb/
   * https://www.youtube.com/watch?v=rqLbn1PQPKA
+  * https://medium.com/@bgrant0607/a-concrete-example-of-configuration-as-data-575115e2ba46
