@@ -20,3 +20,5 @@ Updates I send out to my team on cool data stuff
   * **Overview of different company's overall data approaches:** [Data Modeling Where Theory Meets Reality - How Different Companies I Worked At Modeled Their Data](https://www.youtube.com/watch?v=rqLbn1PQPKA).  Denver-based [Seattle Data Guy](https://www.theseattledataguy.com/) (naming is hard...) is a prolific data communicator and has a good survey of what he's seen as a consultant.
   * **More on the value of powerful configuration tools:** [A concrete example of Configuration as Data](https://medium.com/@bgrant0607/a-concrete-example-of-configuration-as-data-575115e2ba46) walks through a real-world example of munging, transforming and using config to build reliable infra.
   * **Cool CLI/TUI tool:** [Using scriptreplay to build reliable live demos](https://www.geeksforgeeks.org/linux-unix/scriptreplay-command-in-linux-with-examples/).  Scriptreplay aka script (naming is hard...) is a neat way of scripting out terminal-based demos, and then replaying them when you're ready to present.  It's a powerful way of avoiding the wrath of the Live Demo gods...
+* 2025-10-31
+  * https://httptap.dev/ 
